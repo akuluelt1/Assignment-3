@@ -1,0 +1,80 @@
+
+h1 {
+    font-family: sans-serif;
+    color: #b22222;
+    caption-side: top;
+    font-weight: lighter;
+}
+
+table, th {
+    border: 1px solid #b5b5b5;
+    border-collapse: collapse;
+    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.3);
+
+
+
+}
+th, td{
+    background-color: #ddd;
+    padding: 20px;
+    width: 40%;
+    text-align: left;
+}
+
+
+.pm {
+    font-family: sans-serif;
+    font-weight: normal;
+    background-color:#b22222;
+    color:#ddd;
+
+}
+
+.celcius {
+    font-family: sans-serif;
+    font-weight: normal;
+    background-color:#b22222;
+    color: #ddd;
+}
+
+.sticky {
+    font-family: sans-serif;
+    font-weight: normal;
+    background-color:#b22222;
+    color: #ddd;
+}
+
+td .time {
+    font-family: sans-serif;
+
+}
+
+td .degree {
+    font-family: sans-serif;
+
+}
+
+td .percent {
+    font-family: sans-serif;
+
+}
+
+.time {
+    background-color: #ddd;
+}
+
+.degree {
+    background-color: #fff;
+}
+
+.percent {
+    background-color: #fff;
+}
+
+
+
+
+
+/**********************************************************
+            Times
+***********************************************************/
