@@ -1,22 +1,22 @@
 
 h1 {
-    font-family: sans-serif;
+    font-family: 'open sans' sans-serif;
     color: #b22222;
-    text-align: center;
-    caption-side: top;
+    caption-side: left;
+    text-align:center;
     font-weight: lighter;
 }
 
 table, th {
-    align-items: center;
-    border: 1px solid #b5b5b5;
-    border-collapse: collapse;
-    box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.3);
-
-
+    width: 40%;
+    /* border: 1px solid #b5b5b5; */
+    /* border-collapse: collapse; */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 
 }
-th, td{
+
+th, td {
+    /* border: 1.0px solid #b5b5b5; */
     background-color: #ddd;
     padding: 20px;
     width: 40%;
@@ -25,7 +25,7 @@ th, td{
 
 
 .pm {
-    font-family: sans-serif;
+    font-family: 'open sans' sans-serif;
     font-weight: normal;
     background-color:#b22222;
     color:#ddd;
@@ -33,43 +33,48 @@ th, td{
 }
 
 .celcius {
-    font-family: sans-serif;
+    font-family: 'open sans' sans-serif;
     font-weight: normal;
     background-color:#b22222;
     color: #ddd;
 }
 
 .sticky {
-    font-family: sans-serif;
+    border: 1.0px solid #b22222;
+    font-family: 'open sans' sans-serif;
     font-weight: normal;
     background-color:#b22222;
     color: #ddd;
 }
 
 td .time {
-    font-family: sans-serif;
+    font-family: 'open sans' sans-serif;
+    /* border: 1px solid #b5b5b5; */
 
 }
 
 td .degree {
-    font-family: sans-serif;
+    font-family: 'open sans' sans-serif;
 
 }
 
 td .percent {
-    font-family: sans-serif;
+    font-family: 'open sans' sans-serif;
 
 }
 
 .time {
-    background-color: #ddd;
+    border: 1.0px solid #b5b5b5;
+    /* background-color: #ddd; */
 }
 
 .degree {
+    border: 1.0px solid #fff;
     background-color: #fff;
 }
 
 .percent {
+    border: 1.0px solid #fff;
     background-color: #fff;
 }
 
