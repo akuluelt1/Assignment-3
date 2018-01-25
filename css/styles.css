@@ -2,11 +2,13 @@
 h1 {
     font-family: sans-serif;
     color: #b22222;
+    text-align: center;
     caption-side: top;
     font-weight: lighter;
 }
 
 table, th {
+    align-items: center;
     border: 1px solid #b5b5b5;
     border-collapse: collapse;
     box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.3);
